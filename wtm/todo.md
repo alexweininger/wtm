@@ -1,0 +1,4 @@
+- open/create commands behave based on if current dir is a repo
+- PR review workflow 
+- demo workflow
+- open in vscode when creating worktree
