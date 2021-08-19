@@ -1,8 +1,0 @@
-init.py
-setup.py
-wtm.egg-info/PKG-INFO
-wtm.egg-info/SOURCES.txt
-wtm.egg-info/dependency_links.txt
-wtm.egg-info/entry_points.txt
-wtm.egg-info/requires.txt
-wtm.egg-info/top_level.txt
